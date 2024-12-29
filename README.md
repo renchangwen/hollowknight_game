@@ -1,5 +1,5 @@
 # hollowknight_game
-代码均在main.cpp中，使用easyx库和eaxyxPng头文件完成，分为跑图界面和Boss决战界面
+空洞骑士小游戏，代码均在main.cpp中，使用easyx库和eaxyxPng头文件完成，分为跑图界面和Boss决战界面
 ## 操作方式
 D键：向右移动
 A键：向左移动
